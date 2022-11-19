@@ -4,4 +4,5 @@ Desde entonces estuve siempre involucrado en el mundo IT y ya hace más de 4 añ
 
 -🌱 Actualmente me especializo en programación en Python, lo elijo por su versatilidad, pero me gusta explorar nuevos retos y desafíos que mejoran mi lógica y amplían mi stack de herramientas.
 Disfruto del trabajo en equipo con dinámicas scrum.
+
 -📫 Estoy ansioso por seguir aprendiendo y abierto a colaborar en nuevos proyectos.
